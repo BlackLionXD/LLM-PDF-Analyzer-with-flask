@@ -8,4 +8,4 @@ A chatbot that summarizes and analyzes PDF documents using Llama 2, Flask, and L
 - run the project
 
 # Screenshot
-![screenshot]('screenshot.png')
+![screenshot](screenshot.png)
